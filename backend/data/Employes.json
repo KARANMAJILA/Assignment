@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "role": "Developer",
+    "department": "Engineering",
+    "location": "New York",
+    "joinDate": "2023-01-15",
+    "status": "Active",
+    "bio": "Full-stack developer with React experience."
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "email": "michael.chen@example.com",
+    "role": "Designer",
+    "department": "Design",
+    "location": "San Francisco",
+    "joinDate": "2023-03-22",
+    "status": "Active",
+    "bio": "UX/UI Designer"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "role": "Manager",
+    "department": "Marketing",
+    "location": "Chicago",
+    "joinDate": "2022-11-08",
+    "status": "Active",
+    "bio": "Marketing team lead with 10 years experience."
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "role": "Analyst",
+    "department": "Finance",
+    "location": "Boston",
+    "joinDate": "2023-06-10",
+    "status": "Inactive",
+    "bio": "Data analyst specializing in financial trends."
+  },
+  {
+    "id": 5,
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@example.com",
+    "role": "Developer",
+    "department": "Engineering",
+    "location": "Seattle",
+    "joinDate": "2022-09-14",
+    "status": "Active",
+    "bio": "Backend engineer with Node.js expertise."
+  },
+  {
+    "id": 6,
+    "name": "James Garcia",
+    "email": "james.garcia@example.com",
+    "role": "Coordinator",
+    "department": "Operations",
+    "location": "Austin",
+    "joinDate": "2023-04-18",
+    "status": "Active",
+    "bio": "Operations coordinator for cross-team workflows."
+  },
+  {
+    "id": 7,
+    "name": "Maria Santos",
+    "email": "maria.santos@example.com",
+    "role": "Specialist",
+    "department": "HR",
+    "location": "Miami",
+    "joinDate": "2022-12-03",
+    "status": "Active",
+    "bio": "HR specialist focused on talent acquisition."
+  },
+  {
+    "id": 8,
+    "name": "Robert Kim",
+    "email": "robert.kim@example.com",
+    "role": "Lead",
+    "department": "Engineering",
+    "location": "Denver",
+    "joinDate": "2023-02-28",
+    "status": "Inactive",
+    "bio": "Tech lead managing frontend architecture."
+  },
+  {
+    "id": 9,
+    "name": "Aisha Patel",
+    "email": "aisha.patel@example.com",
+    "role": "QA Engineer",
+    "department": "Engineering",
+    "location": "Houston",
+    "joinDate": "2023-05-10",
+    "status": "Active",
+    "bio": "Manual and automated testing expert."
+  },
+  {
+    "id": 10,
+    "name": "Tom Harris",
+    "email": "tom.harris@example.com",
+    "role": "Support Agent",
+    "department": "Customer Success",
+    "location": "Phoenix",
+    "joinDate": "2023-01-25",
+    "status": "Active",
+    "bio": "Customer support with CRM experience."
+  },
+  {
+    "id": 11,
+    "name": "Natalie King",
+    "email": "natalie.king@example.com",
+    "role": "Product Manager",
+    "department": "Product",
+    "location": "Los Angeles",
+    "joinDate": "2022-10-01",
+    "status": "Active",
+    "bio": "PM with Agile and Scrum certifications."
+  },
+  {
+    "id": 12,
+    "name": "Ravi Deshmukh",
+    "email": "ravi.deshmukh@example.com",
+    "role": "Data Engineer",
+    "department": "Data",
+    "location": "Bangalore",
+    "joinDate": "2023-03-15",
+    "status": "Active",
+    "bio": "ETL pipelines, big data, and cloud systems."
+  }
+]
